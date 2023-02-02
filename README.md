@@ -13,17 +13,17 @@ ___
 
 Flutter 3.3.10 • Dart 2.18.6
 
-Dependency injection was implemented using the `get_it` package + `injectable` package (for code generation).
+Dependency injection is implemented using the `get_it` package + `injectable` package (for code generation).
 
 DI depends on the mode in which the application is running:  `dev`, `prod` or `test`. Depending on this, the possibility of using mock repositories appears.
 
 `flutter_bloc 8.1.1` library is used for implementing BLoC pattern.
 
-`hydrated_bloc` package was used to store the states of cubits responsible for authentication and interaction with posts.
+`hydrated_bloc` package is used to store the states of cubits responsible for authentication and interaction with posts.
 
-Also for code generation of immutable classes `freezed` package was used.
+Also for code generation of immutable classes `freezed` package is used.
 
-`Dio` package was used as http client due to support interceptors.
+`Dio` package is used as http client due to support interceptors.
 
 ___
 ## Useful links
