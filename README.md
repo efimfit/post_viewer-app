@@ -3,8 +3,10 @@ Client mobile application
 
 [Link to server app repository](https://github.com/efimfit/post_viewer-server-app-)
 
+![posts](assets/posts.png)
+![post](assets/post.png)
 
-![diagram](diagram.png)
+I guess this is the best design you've ever seen. But you need to understand that the goal of this project was anything but design 😄
 
 ___
 ## Technical description
